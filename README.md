@@ -120,3 +120,4 @@ A curated list of awesome projects related with Gitea.
 ## Themes
 
 * [Gitea Matrix Template](https://github.com/TylerByte666/gitea-matrix-template) - Custom Gitea Theme! Spruce up gitea's arc-green template, with a matrix inspired background. 
+* [Github theme for Gitea](https://github.com/lstolcman/gitea-github-theme) - Github theme for Gitea
