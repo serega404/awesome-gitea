@@ -90,6 +90,7 @@ A curated list of awesome projects related to Gitea.
 * [gitea.js](https://github.com/waspothegreat/gitea.js) - Gitea (WIP) wrapper lib made in javascript.
 * [Giteapy](https://pypi.org/project/giteapy/) - Python SDK for gitea
 * [Golang SDK](https://gitea.com/gitea/go-sdk) - Official Golang SDK for gitea.
+* [yii2-gitea](https://github.com/cedx/yii2-gitea) - Gitea connector for Yii
 
 ## Themes
 
