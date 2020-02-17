@@ -103,8 +103,8 @@ A curated list of awesome projects related to Gitea.
 
 ## Themes
 
-* [Gitea Matrix Template](https://github.com/TylerByte666/gitea-matrix-template) - Custom Gitea Theme! Spruce up gitea's arc-green template, with a matrix inspired background.
-* [Github theme for Gitea](https://github.com/lstolcman/gitea-github-theme) - Github theme for Gitea
+* [Gitea Arc Purple](https://github.com/jvin042/gitea-theme-arc-purple) - Arc-purple theme for Gitea
 * [Gitea Dark Blue](https://gitea.artixlinux.org/artix/gitea-dark-blue) - The dark blue Gitea theme used in https://gitea.artixlinux.org
-* [Space](https://github.com/Th3Whit3Wolf/Space-Gitea) - Spacemacs Theme for Gitea
-* [arc-purple](https://github.com/jvin042/gitea-theme-arc-purple) - Arc-purple theme for Gitea
+* [Gitea Matrix Template](https://github.com/TylerByte666/gitea-matrix-template) - Custom Gitea Theme! Spruce up gitea's arc-green template, with a matrix inspired background.
+* [Gitea Space](https://github.com/Th3Whit3Wolf/Space-Gitea) - Spacemacs Theme for Gitea
+* [Github for Gitea](https://github.com/lstolcman/gitea-github-theme) - Github theme for Gitea
