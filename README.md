@@ -107,3 +107,4 @@ A curated list of awesome projects related to Gitea.
 * [Github theme for Gitea](https://github.com/lstolcman/gitea-github-theme) - Github theme for Gitea
 * [Gitea Dark Blue](https://gitea.artixlinux.org/artix/gitea-dark-blue) - The dark blue Gitea theme used in https://gitea.artixlinux.org
 * [Space](https://github.com/Th3Whit3Wolf/Space-Gitea) - Spacemacs Theme for Gitea
+* [arc-purple](https://github.com/jvin042/gitea-theme-arc-purple) - Arc-purple theme for Gitea
