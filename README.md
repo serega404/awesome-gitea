@@ -82,7 +82,7 @@ A curated list of awesome projects related to Gitea.
 * [Gitea-VSCode](https://marketplace.visualstudio.com/items?itemName=ijustdev.gitea-vscode) - Gitea Issue Tracker for vs-code
 * [Gitea Extension for Visual Studio](https://marketplace.visualstudio.com/items?itemName=MysticBoy.GiteaExtensionforVisualStudio) - A Visual Studio Extension that brings the Gitea Flow into Visual Studio.
 * [gitea-kanban](https://github.com/qontu/gitea-kanban) - Kanban for Gitea done in Vue
-* [gitea-tree ](https://github.com/vickllny/giteatree) - gitea-tree
+* [gitea-tree](https://github.com/vickllny/giteatree) - gitea-tree
 
 ## Scripts
 
