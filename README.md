@@ -47,6 +47,7 @@ A curated list of awesome projects related to Gitea.
 * [Concourse](https://www.concourse-ci.org/) - partially can be integrated with Gitea. see https://discuss.concourse-ci.org/t/concourse-ci-and-gitea-oauth/1475
 * [drone](https://github.com/drone/drone) - Drone is a Container-Native, Continuous Delivery Platform. Built-in Gitea support.
 * [Jenkins](https://github.com/jenkinsci/gitea-plugin) - Gitea plugin for jenkins.
+* [AWS Cloud Integration(webhook-to-s3)](https://github.com/leonli/webhook-to-s3) - Gitea Webhook integration with AWS CodePipeline and CodeBuild by automatically uploading the archive to AWS S3.
 
 ### Mobile
 
