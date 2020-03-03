@@ -77,6 +77,7 @@ A curated list of awesome projects related to Gitea.
 * [gitea-operator](https://github.com/robotinfra/gitea-operator) - Gitea kubernates operator
 * [gitea-operator](https://github.com/integr8ly/gitea-operator) - An Operator that installs Gitea
 * [synology-gitea-jboxberger](https://github.com/jboxberger/synology-gitea-jboxberger) - Synology Gitea Package
+* [Acappella](https://github.com/sitelease/acappella) - Private Composer Repository for Gitea
 
 ## Plugins
 
@@ -104,6 +105,7 @@ A curated list of awesome projects related to Gitea.
 * [Golang SDK](https://gitea.com/gitea/go-sdk) - Official Golang SDK for gitea.
 * [yii2-gitea](https://github.com/cedx/yii2-gitea) - Gitea connector for Yii
 * [PHP](https://github.com/avency/Gitea/) - PHP SDK for gitea
+* [Sugar Cube Client](https://github.com/sitelease/sugar-cube-client) - A sweet Gitea API client for PHP
 
 ## Themes
 
