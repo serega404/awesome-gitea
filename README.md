@@ -77,6 +77,8 @@ A curated list of awesome projects related to Gitea.
 * [gitea-operator](https://github.com/robotinfra/gitea-operator) - Gitea kubernates operator
 * [gitea-operator](https://github.com/integr8ly/gitea-operator) - An Operator that installs Gitea
 * [synology-gitea-jboxberger](https://github.com/jboxberger/synology-gitea-jboxberger) - Synology Gitea Package
+
+## Package Management
 * [Acappella](https://github.com/sitelease/acappella) - Private Composer Repository for Gitea
 
 ## Plugins
