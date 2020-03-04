@@ -49,8 +49,6 @@ A curated list of awesome projects related to Gitea.
 * [drone](https://github.com/drone/drone) - Drone is a Container-Native, Continuous Delivery Platform. Built-in Gitea support.
 * [Jenkins](https://github.com/jenkinsci/gitea-plugin) - Gitea plugin for jenkins.
 
-
-
 ### Mobile
 
 * [GitNex](https://gitea.com/mmarif/GitNex) - Android client for Gitea.
