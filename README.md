@@ -17,6 +17,8 @@ A curated list of awesome projects related to Gitea.
 
 - [Packages](#packages)
 
+- [Package Management](#package-management)
+
 - [Plugins](#plugins)
 
 - [Scripts](#scripts)
