@@ -87,6 +87,7 @@ A curated list of awesome projects related to Gitea.
 * [gitea-operator](https://github.com/integr8ly/gitea-operator) - An Operator that installs Gitea
 * [gitea-operator](https://github.com/robotinfra/gitea-operator) - Gitea Kubernetes Operator
 * [synology-gitea-jboxberger](https://github.com/jboxberger/synology-gitea-jboxberger) - Synology Gitea Package
+* [Gitea Debian/Ubuntu packages](https://gitlab.com/packaging/gitea) - Debian/Ubuntu packages
 
 ## Package Management
 
