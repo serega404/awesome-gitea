@@ -84,6 +84,7 @@ A curated list of awesome projects related to Gitea.
 * [gitea-chocolatey](https://github.com/doggy8088/gitea-chocolatey) - Chocolatey package for gitea
 * [Gitea Debian/Ubuntu packages](https://gitlab.com/packaging/gitea) - Debian/Ubuntu packages
 * [gitea-helm-chart](https://github.com/jfelten/gitea-helm-chart) - gitea-helm-chart
+* [novum-rgi-gitea-helm-chart](https://github.com/novumrgi/helm/tree/master/charts/gitea) - gitea helm chart with app.ini configuration, ldap, admin user, postgresql, mysql and memcached support
 * [gitea-operator](https://github.com/integr8ly/gitea-operator) - An Operator that installs Gitea
 * [gitea-operator](https://github.com/robotinfra/gitea-operator) - Gitea Kubernetes Operator
 * [helm-chart](https://gitea.com/gitea/helm-chart) - Official Gitea Helm Chart
