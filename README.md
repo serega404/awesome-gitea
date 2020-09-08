@@ -102,6 +102,7 @@ A curated list of awesome projects related to Gitea.
 * [gitea-tree](https://github.com/vickllny/giteatree) - gitea-tree
 * [Gitea-VSCode](https://marketplace.visualstudio.com/items?itemName=ijustdev.gitea-vscode) - Gitea Issue Tracker for vs-code
 * [intellij-gitea-plugin](https://github.com/e1fueg0/intellij-gitea-plugin) - Gitea issue tracker integration plugin for Jetbrains IDE platform.
+* [gitea-comment-plugin](https://github.com/TsakiDev/gitea-comment) - A Drone plugin to post comments on a Gitea Pull Request.
 
 ## Scripts
 
