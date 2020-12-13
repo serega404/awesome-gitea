@@ -29,6 +29,8 @@ A curated list of awesome projects related to Gitea.
 
 - [Themes](#themes)
 
+- [Workflow Tools](#workflow-tools)
+
 ## Applications
 
 ### Bot
