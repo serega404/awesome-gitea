@@ -132,6 +132,7 @@ A curated list of awesome projects related to Gitea.
 * [Sugar Cube Client](https://github.com/sitelease/sugar-cube-client) - A sweet Gitea API client for PHP
 * [tea4j](https://codeberg.org/gitnex/tea4j) - Java library which uses Retrofit to access the Gitea API
 * [yii2-gitea](https://github.com/cedx/yii2-gitea) - Gitea connector for Yii
+* [gitear](CRAN.R-project.org/package=gitear) - Gitea API client for R
 
 ## Themes
 
