@@ -151,6 +151,7 @@ A curated list of awesome projects related to Gitea.
 * [theme.park](https://github.com/gilbN/theme.park/wiki/Gitea) - A theme suite for Gitea.
 * [Gitea Carbon Red](https://github.com/iamdoubz/Gitea-Carbon-Red) - A darker red Gitea version 1.14+ theme used in https://git.dou.bet/iamdoubz/Gitea-Carbon-Red
 * [Gitea Pitch Black](https://github.com/iamdoubz/Gitea-Pitch-Black) - A pitch black Gitea version 1.14+ theme used in https://git.dou.bet/iamdoubz/Gitea-Pitch-Black
+* [Gitea GitHub](https://github.com/pat-s/gitea-github-theme) - A GitHub-based Gitea theme
 
 ## Workflow Tools
 
