@@ -59,6 +59,7 @@ A curated list of awesome projects related to Gitea.
 * [Concourse](https://www.concourse-ci.org/) - partially can be integrated with Gitea.
 * [dex](https://github.com/dexidp/dex) - Dex is a federated OpenID Connect provider. Built-in Gitea support.
 * [drone](https://github.com/drone/drone) - Drone is a Container-Native, Continuous Delivery Platform. Built-in Gitea support. (see [docs](https://docs.drone.io/server/provider/gitea/))
+* [Gitea Actions](https://gist.github.com/WorkingRobot/818cdae0b7e14c1a5ea0a3f1a64d54aa) - Integrate GitHub Actions CI/CD into Gitea
 * [Jenkins](https://github.com/jenkinsci/gitea-plugin) - Gitea plugin for jenkins.
 * [Metroline](https://github.com/metroline/metroline) - Metroline is a Continuous Integration and Delivery platform built with Docker, Node, React and MongoDB, natively compatible with Gitea.
 * [Monitoring mixin](https://github.com/go-gitea/gitea/tree/main/contrib/gitea-monitoring-mixin) - Gitea monitoring mixin (Grafana dashboard)
