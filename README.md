@@ -95,6 +95,7 @@ A curated list of awesome projects related to Gitea.
 * [Disroot](https://git.disroot.org/) - Aims to change the way people are used to interact on the web.
 * [GitShuiShan](http://gitea.shuishan.net.cn/) - A Git platform for education
 * [OpenDev](https://opendev.org/) - A space for collaborative Open Source software development.
+* [Teeckyar](https://teeckyar.ir/) - Free And Full Git Service.
 
 ### For internal use
 
