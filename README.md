@@ -114,6 +114,7 @@ A curated list of awesome projects related to Gitea.
 ## Package Management
 
 * [Acappella](https://github.com/sitelease/acappella) - Private Composer Repository for Gitea
+* [Acappella (Updated,Bugs Fixed)](https://github.com/tahaghafuri/acappella) - Private Composer Repository for Gitea
 
 ## Plugins
 
@@ -148,6 +149,7 @@ A curated list of awesome projects related to Gitea.
 * [PHP](https://github.com/avency/Gitea/) - PHP SDK for gitea
 * [py-gitea](https://github.com/Langenfeld/py-gitea/) - A very simple API client for Gitea > 1.16.1
 * [Sugar Cube Client](https://github.com/sitelease/sugar-cube-client) - A sweet Gitea API client for PHP
+* [Sugar Cube Client (Updated,Bugs Fixed)](https://github.com/tahaghafuri/sugar-cube-client) - A sweet Gitea API client for PHP
 * [tea4j-autodeploy](https://codeberg.org/gitnex/tea4j-autodeploy) - Swagger-generated Java library which uses Retrofit to access the Gitea API
 
 ## Themes
