@@ -75,7 +75,7 @@ A curated list of awesome projects related to Gitea.
 
 ### Web Hosting
 
-* [Pages Server](https://codeberg.org/Codeberg/pages-server) - Static Pages server, with custom domain support, per-repo pages using the "pages" branch, caching and much more
+* [Pages Server](https://codeberg.org/Codeberg/pages-server) - Static Pages Server, Gitea equivalent of GitHub Pages: Can serve static webpages on custom domains, including caching, and much more
 
 ## Migration
 
