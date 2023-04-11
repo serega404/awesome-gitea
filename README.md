@@ -76,6 +76,7 @@ A curated list of awesome projects related to Gitea.
 
 ### Web Hosting
 
+- [Caddy Gitea Plugin](https://github.com/42wim/caddy-gitea) - Caddy2 plugin enables GitHub pages-like features in Gitea, requiring a wildcard CNAME to your Gitea host.
 - [Pages Server](https://codeberg.org/Codeberg/pages-server) - Static Pages Server, Gitea equivalent of GitHub Pages: Can serve static webpages on custom domains, including caching, and much more
 
 ## Migration
@@ -84,7 +85,6 @@ A curated list of awesome projects related to Gitea.
 - [github2gitea](https://gitea.com/yige/github2gitea) - A python script to migrate Github repositories Gitea with issues/prs/wiki and etc.
 - [gitlab2gitea](https://github.com/cornelk/gitlab2gitea) - A command line tool build with Golang to migrate a GitLab project to Gitea.
 - [Gogs2Gitea](https://github.com/lesh59/Gogs2Gitea) - A SQL script and process (README) to migrate directly from Gogs 0.12.3 to Gitea 1.12.5 / 1.12.6 in MySQL/MariaDB and maybe other DB's.
-
 
 ## Organizations
 
@@ -166,11 +166,13 @@ A curated list of awesome projects related to Gitea.
 - [theme.park](https://docs.theme-park.dev/themes/gitea) - Rich theme suite that includes Gitea
 
 ### Light
+
 - [Red Silver](https://github.com/iamdoubz/Gitea-Red-Silver) - Red silver theme by iamdoubz
 - [lstolcman/GitHub](https://github.com/lstolcman/gitea-github-theme) - Simple Github theme for Gitea
 - [Light Blue](https://github.com/sIspravnikov/gitea-lightblue) - Light blue theme inspired by Bitbucket
 
 ### Dark
+
 - [Bthree Dark](https://projects.blender.org/infrastructure/gitea-custom) - A dark theme created and used by the Blender Project.
 - [Carbon Red](https://github.com/iamdoubz/Gitea-Carbon-Red) - Darker red 1.14+ theme based on arc-green by iamdoubz
 - [Dark Arc](https://github.com/Jieiku/theme-dark-arc-gitea) - Dark theme with high contrast, based on arc-green.
@@ -180,7 +182,6 @@ A curated list of awesome projects related to Gitea.
 - [Matrix](https://github.com/TylerByte666/gitea-matrix-template) - Neon-green with a matrix-inspired background
 - [Pitch Black](https://github.com/iamdoubz/Gitea-Pitch-Black) - Pitch black 1.14+ theme used on https://git.dou.bet/iamdoubz/Gitea-Pitch-Black
 - [Tangerine Dream](https://github.com/jager012/tangerine-dream) - Tangerine dark theme for Gitea
-
 
 ## Workflow Tools
 
