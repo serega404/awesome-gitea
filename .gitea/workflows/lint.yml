@@ -1,0 +1,12 @@
+name: lint
+on:
+  - push
+  - pull_request
+
+jobs:
+  lint:
+    name: lint
+    runs-on: ubuntu-latest
+    steps:
+      - name: lint
+        uses: articulate/actions-markdownlint@v1
