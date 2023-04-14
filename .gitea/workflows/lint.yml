@@ -10,3 +10,5 @@ jobs:
     steps:
       - name: lint
         uses: https://github.com/articulate/actions-markdownlint@v1
+        with:
+          files: '**/*.md'
