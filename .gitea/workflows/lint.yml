@@ -11,4 +11,4 @@ jobs:
       - name: install markdown-cli
         run: npm install -g markdownlint-cli
       - name: lint
-        run: markdownlint -c .markdownlint.yaml '**/*.md'
+        run: npx markdownlint '**/*.md'
