@@ -8,7 +8,8 @@ jobs:
     name: lint
     runs-on: ubuntu-latest
     steps:
-      - name: install markdown-cli
+      - uses: actions/checkout@v3
+      - name: install markdownlint-cli
         run: npm install -g markdownlint-cli
       - name: lint
         run: markdownlint '**/*.md'
