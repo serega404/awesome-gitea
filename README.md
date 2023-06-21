@@ -145,8 +145,8 @@ A curated list of awesome projects related to Gitea.
 ## Scripts
 
 - [docker-gitea](https://gitea.com/jwobith/docker-gitea) - Docker Gitea Service
-- [gitea](https://codeberg.org/ansible/gitea) - Ansible role to install and configure multiple Gitea instances on the same host.
 - [nodiscc.xsrv.gitea](https://github.com/nodiscc/xsrv/tree/master/roles/gitea) - Ansible role to install and configure Gitea
+- [solarchemist/gitea](https://codeberg.org/ansible/gitea) - Ansible role to install and configure multiple Gitea instances on the same host.
 
 ## SDK
 
