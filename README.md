@@ -113,7 +113,6 @@ A curated list of awesome projects related to Gitea.
 - [Sum7](https://dev.sum7.eu/) - A hoster to support decentralized services. A step away from big cloud services.
 - [Teknik](https://git.teknik.io/Teknikode) - Provide services to help those who try to innovate.
 
-
 ## Packages
 
 - [docker-openshift-gitea](https://github.com/wkulhanek/docker-openshift-gitea) - Gitea container for OpenShift
