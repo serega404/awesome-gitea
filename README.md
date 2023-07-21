@@ -81,6 +81,7 @@ A curated list of awesome projects related to Gitea.
 
 - [GiteaPanel](https://github.com/sashaoli/GiteaPanel) - Manage the local Gitea server from the tray.
 - [Listea](https://github.com/IGLOU-EU/listea) - Simple Gitea issues viewer from the tray.
+- [US/GiteaPanel](https://github.com/kerwin612/us-giteapanel) - A Gitea shortcut panel built based on UserScript.
 
 ### Web Hosting
 
