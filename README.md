@@ -187,6 +187,7 @@ A curated list of awesome projects related to Gitea and its soft-fork instances.
 
 ### Dark
 
+- [GitHub](https://github.com/Rainnny7/gitea-github-theme) - A theme to make Gitea look and feel like GitHub. 
 - [Bthree Dark](https://projects.blender.org/infrastructure/gitea-custom) - A dark theme created and used by the Blender Project.
 - [Carbon Red](https://github.com/iamdoubz/Gitea-Carbon-Red) - Darker red 1.14+ theme based on arc-green by iamdoubz
 - [Dark Arc](https://github.com/Jieiku/theme-dark-arc-gitea) - Dark theme with high contrast, based on arc-green.
