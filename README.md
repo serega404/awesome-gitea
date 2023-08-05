@@ -187,13 +187,13 @@ A curated list of awesome projects related to Gitea and its soft-fork instances.
 
 ### Dark
 
-- [GitHub](https://github.com/Rainnny7/gitea-github-theme) - A theme to make Gitea look and feel like GitHub. 
 - [Bthree Dark](https://projects.blender.org/infrastructure/gitea-custom) - A dark theme created and used by the Blender Project.
 - [Carbon Red](https://github.com/iamdoubz/Gitea-Carbon-Red) - Darker red 1.14+ theme based on arc-green by iamdoubz
 - [Dark Arc](https://github.com/Jieiku/theme-dark-arc-gitea) - Dark theme with high contrast, based on arc-green.
 - [Dark Blue](https://gitea.artixlinux.org/artix/gitea-dark-blue) - The dark blue Gitea theme used on [https://gitea.artixlinux.org](https://gitea.artixlinux.org)
 - [Dark Red](https://github.com/iamdoubz/Gitea-Dark-Red-Theme) - Dark red theme by iamdoubz
 - [Earl Grey](https://github.com/acoolstraw/earl-grey) - An elegant dark theme for Gitea with blue as highlight color used on [https://git.pinnoto.org/bo](https://git.pinnoto.org/bo)
+- [GitHub](https://github.com/Rainnny7/gitea-github-theme) - A theme to make Gitea look and feel like GitHub.
 - [Matrix](https://github.com/TylerByte666/gitea-matrix-template) - Neon-green with a matrix-inspired background
 - [Pitch Black](https://github.com/iamdoubz/Gitea-Pitch-Black) - Pitch black 1.14+ theme used on [https://git.dou.bet/iamdoubz/Gitea-Pitch-Black](https://git.dou.bet/iamdoubz/Gitea-Pitch-Black)
 - [Tangerine Dream](https://github.com/jager012/tangerine-dream) - Tangerine dark theme for Gitea
