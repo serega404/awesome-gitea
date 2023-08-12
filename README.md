@@ -146,6 +146,7 @@ A curated list of awesome projects related to Gitea and its soft-fork instances.
 - [Gitea-VSCode](https://marketplace.visualstudio.com/items?itemName=ijustdev.gitea-vscode) - Gitea Issue Tracker for vs-code
 - [intellij-gitea-plugin](https://github.com/e1fueg0/intellij-gitea-plugin) - Gitea issue tracker integration plugin for Jetbrains IDE platform.
 - [redmine_merge_request_links](https://github.com/tf/redmine_merge_request_links#gitea) - Gitea pull request integration for Redmine issue tracker.
+- [Gitea](https://github.com/LeonDevLifeLog/gitea-idea-plugin) plugin for JetBrains IDEs(Idea,Android Studio,etc).
 
 ## Scripts
 
