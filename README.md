@@ -69,6 +69,7 @@ A curated list of awesome projects related to Gitea and its soft-fork instances.
 - [Renovate](https://github.com/renovatebot/renovate) - Gitea compatible configurable universal dependability update tool
 - [soba](https://github.com/jonhadfield/soba) - scheduled backups of user/organization Gitea repositories with change detection.
 - [Tea Runner](https://github.com/DavesCodeMusings/tea-runner) - A minimalist Python Flask app that uses Gitea webhooks to perform actions.
+- [watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates. Useful for running Continuous Deployment pipeline steps.
 - [webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands. Useful for running Continuous Deployment pipeline steps.
 - [webhookd](https://github.com/ncarlier/webhookd) - A very simple webhook server launching shell scripts. Useful for running Continuous Deployment pipeline steps.
 - [woodpecker](https://github.com/woodpecker-ci/woodpecker) - An opinionated fork of the Drone CI system. Built-in Gitea support. (see [docs](https://woodpecker-ci.org/docs/administration/vcs/gitea))
