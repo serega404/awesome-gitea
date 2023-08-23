@@ -89,8 +89,8 @@ A curated list of awesome projects related to Gitea and its soft-fork instances.
 ### Web Hosting
 
 - [Caddy Gitea Plugin](https://github.com/42wim/caddy-gitea) - Caddy2 plugin enables GitHub pages-like features in Gitea, requiring a wildcard CNAME to your Gitea host.
-- [Pages Server](https://codeberg.org/Codeberg/pages-server) - Static Pages Server, Gitea equivalent of GitHub Pages: Can serve static webpages on custom domains, including caching, and much more
 - [Meli Docs](https://docs.meli.charlie-bravo.be/authentication/gitea) - Meli is an open source platform built for deploying static sites and frontend applications. 
+- [Pages Server](https://codeberg.org/Codeberg/pages-server) - Static Pages Server, Gitea equivalent of GitHub Pages: Can serve static webpages on custom domains, including caching, and much more
 
 ## Migration
 
