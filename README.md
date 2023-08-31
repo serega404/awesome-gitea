@@ -98,7 +98,7 @@ A curated list of awesome projects related to Gitea and its soft-fork instances.
 - [github2gitea](https://gitea.com/yige/github2gitea) - A python script to migrate Github repositories Gitea with issues/prs/wiki and etc.
 - [gitlab2gitea](https://github.com/cornelk/gitlab2gitea) - A command line tool build with Golang to migrate a GitLab project to Gitea.
 - [Gogs2Gitea](https://github.com/lesh59/Gogs2Gitea) - A SQL script and process (README) to migrate directly from Gogs 0.12.3 to Gitea 1.12.5 / 1.12.6 in MySQL/MariaDB and maybe other DB's.
-- [jira2giteaMySql](https://github.com/juangarcia06/jira2giteaMySql) Jira Issues to Gitea (with MySql) 
+- [jira2giteaMySql](https://github.com/juangarcia06/jira2giteaMySql) Jira Issues to Gitea (with MySql)
 
 ## Organizations
 
