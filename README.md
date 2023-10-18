@@ -152,6 +152,7 @@ A curated list of awesome projects related to Gitea and its soft-fork instances.
 - [intellij-gitea-plugin](https://github.com/e1fueg0/intellij-gitea-plugin) - Gitea issue tracker integration plugin for Jetbrains IDE platform.
 - [redmine_merge_request_links](https://github.com/tf/redmine_merge_request_links#gitea) - Gitea pull request integration for Redmine issue tracker.
 - [Gitea](https://github.com/LeonDevLifeLog/gitea-idea-plugin) plugin for JetBrains IDEs(Idea,Android Studio,etc).
+- [Gitea-Anchorpoint](https://docs.anchorpoint.app/docs/1-overview/integrations/gitea) Gitea integration plugin for an artist friendly Git client.
 
 ## Scripts
 
