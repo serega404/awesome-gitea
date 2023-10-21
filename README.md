@@ -140,6 +140,7 @@ A curated list of awesome projects related to Gitea.
 * [ansible.gitea](https://github.com/melvin-suter/ansible.gitea) - Gitea Setup with Ansible
 * [ansible-role-gitea](https://github.com/thomas-maurice/ansible-role-gitea) - Ansible role to deploy a Gitea instance
 * [docker-gitea](https://gitea.com/jwobith/docker-gitea) - Docker Gitea Service
+* [makepr](https://www.npmjs.com/package/makepr) - Npm cli to open gitea PR page for current branch.
 
 ## SDK
 
