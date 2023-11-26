@@ -159,6 +159,7 @@ A curated list of awesome projects related to Gitea and its soft-fork instances.
 
 - [docker-gitea](https://gitea.com/jwobith/docker-gitea) - Docker Gitea Service
 - [nodiscc.xsrv.gitea](https://github.com/nodiscc/xsrv/tree/master/roles/gitea) - Ansible role to install and configure Gitea
+- [nodiscc.xsrv.gitea_act_runner](https://github.com/nodiscc/xsrv/tree/master/roles/gitea_act_runner) - Ansible role to install and configure `act_runner`
 - [solarchemist/gitea](https://codeberg.org/ansible/gitea) - Ansible role to install and configure multiple Gitea instances on the same host.
 
 ## SDK
