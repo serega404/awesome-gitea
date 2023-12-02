@@ -75,6 +75,7 @@ A curated list of awesome projects related to Gitea and its soft-fork instances.
 - [webhookd](https://github.com/ncarlier/webhookd) - A very simple webhook server launching shell scripts. Useful for running Continuous Deployment pipeline steps.
 - [woodpecker](https://github.com/woodpecker-ci/woodpecker) - An opinionated fork of the Drone CI system. Built-in Gitea support. (see [docs](https://woodpecker-ci.org/docs/administration/vcs/gitea))
 - [yojo](https://sr.ht/~emersion/yojo/) - A CI bridge from Gitea to SourceHut.
+- [gitea-release-action](https://github.com/akkuman/gitea-release-action): An github/gitea action to support publishing release to Gitea, wirted in js.
 
 ### Mobile
 
