@@ -96,6 +96,7 @@ A curated list of awesome projects related to Gitea and its soft-fork instances.
 
 ## Migration
 
+- [BitbucketServer2Gitea](https://github.com/appleboy/BitbucketServer2Gitea) - A command line tool build with Golang to migrate a Bitbucket Server (Stash) Project to Gitea.
 - [Bitbucket2Gitea](https://github.com/sIspravnikov/BitbucketToGitea) - A python3 script to migrate all projects and repositories from Atlassian BitBucket to Gitea.
 - [github2gitea](https://gitea.com/yige/github2gitea) - A python script to migrate Github repositories Gitea with issues/prs/wiki and etc.
 - [gitlab2gitea](https://github.com/cornelk/gitlab2gitea) - A command line tool build with Golang to migrate a GitLab project to Gitea.
