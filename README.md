@@ -49,6 +49,7 @@ A curated list of awesome projects related to Gitea and its soft-fork instances.
 - [makepr](https://github.com/hrgdavor/makepr) - Quickly open url to start PR process with current branch.
 - [sip](https://gitea.com/jolheiser/sip) - A prompt-based command line tool to interact with Gitea servers.
 - [tea](https://gitea.com/gitea/tea) - A command line tool to interact with Gitea servers.
+- [gcli](https://github.com/herrhotzenplotz/gcli) - A cli for Gitea, Gitlab and Github written in C
 
 ### DevOps
 
