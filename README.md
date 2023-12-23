@@ -44,6 +44,7 @@ A curated list of awesome projects related to Gitea and its soft-fork instances.
 ### Command Line
 
 - [changelog](https://gitea.com/gitea/changelog) - Generate changelog of gitea repository.
+- [gcli](https://github.com/herrhotzenplotz/gcli) - A CLI for Gitea, Gitlab and Github written in C
 - [gitea-cli](https://github.com/bashup/gitea-cli) - Extensible, configurable command-line API client for gitea and gogs.
 - [gitea-installer](https://github.com/uvulpos/gitea-installer) - a simple ubuntu native installer script
 - [makepr](https://github.com/hrgdavor/makepr) - Quickly open url to start PR process with current branch.
