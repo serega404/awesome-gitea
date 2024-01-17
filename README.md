@@ -9,6 +9,7 @@ A curated list of awesome projects related to Gitea and its soft-fork instances.
 
 - [Awesome Gitea](#awesome-gitea)
   - [Contents](#contents)
+  - [Actions](#actions)
   - [Applications](#applications)
     - [Bot](#bot)
     - [Command Line](#command-line)
@@ -30,6 +31,11 @@ A curated list of awesome projects related to Gitea and its soft-fork instances.
     - [Dark](#dark)
   - [Workflow Tools](#workflow-tools)
   - [Project Management](#project-management)
+
+## Actions
+
+- [gitea-publish-generic-packages](https://github.com/VAllens/gitea-publish-generic-packages) - An action to support publishing generic packages to Gitea.
+- [gitea-release-action](https://gitea.com/actions/gitea-release-action) - An github/gitea action to support publishing release to Gitea.
 
 ## Applications
 
