@@ -191,6 +191,7 @@ A curated list of awesome projects related to Gitea and its soft-fork instances.
 ## Themes
 
 - [Catppuccin](https://github.com/catppuccin/gitea) - Soothing pastel theme for Gitea
+- [Lugit Themes](https://github.com/lucas-labs/gitea-lugit-theme) - Light-Dark themes inspired by Github and Catppuccin
 - [Modern](https://codeberg.org/Freeplay/Gitea-Modern) - Changes the layout for a more modern look. Usable with other themes that only change colors.
 - [pat-s/GitHub](https://codeberg.org/pat-s/gitea-github-theme) - Opinionated GitHub-inspired light and dark themes
 - [Red](https://github.com/saegl5/Gitea-Red) - Red theme by saegl5 (forked from Red Silver)
