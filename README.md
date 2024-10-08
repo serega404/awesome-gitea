@@ -53,10 +53,10 @@ A curated list of awesome projects related to Gitea and its soft-fork instances.
 - [gcli](https://github.com/herrhotzenplotz/gcli) - A CLI for Gitea, Gitlab and Github written in C
 - [gitea-cli](https://github.com/bashup/gitea-cli) - Extensible, configurable command-line API client for gitea and gogs.
 - [gitea-installer](https://github.com/uvulpos/gitea-installer) - a simple ubuntu native installer script
+- [grp](https://github.com/feraxhp/grp) - A cli tool to interact with github, gitea and local repositories written in rust.
 - [makepr](https://github.com/hrgdavor/makepr) - Quickly open url to start PR process with current branch.
 - [sip](https://gitea.com/jolheiser/sip) - A prompt-based command line tool to interact with Gitea servers.
 - [tea](https://gitea.com/gitea/tea) - A command line tool to interact with Gitea servers.
-- [grp](https://github.com/feraxhp/grp) - A cli tool to interact with github, gitea and local repositories written in rust.
 
 ### DevOps
 
