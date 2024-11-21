@@ -36,6 +36,7 @@ A curated list of awesome projects related to Gitea and its soft-fork instances.
 
 - [gitea-publish-generic-packages](https://github.com/VAllens/gitea-publish-generic-packages) - An action to support publishing generic packages to Gitea.
 - [gitea-release-action](https://gitea.com/actions/gitea-release-action) - An action to support publishing releases to Gitea.
+- [gitea-release-please](https://github.com/marketplace/actions/gitea-release-please-action) - An action to support Automated releases with Conventional Commit Messages.
 
 ## Applications
 
