@@ -215,7 +215,7 @@ A curated list of awesome projects related to Gitea and its soft-fork instances.
 - [Dark Blue](https://gitea.artixlinux.org/artix/gitea-dark-blue) - The dark blue Gitea theme used on [https://gitea.artixlinux.org](https://gitea.artixlinux.org)
 - [Dark Red](https://github.com/iamdoubz/Gitea-Dark-Red-Theme) - Dark red theme by iamdoubz
 - [Deep Dark](https://github.com/plashenkov/gitea-theme-deep-dark) - A deep dark theme based on arc-green and featuring unified headers.
-- [Earl Grey](https://github.com/Troplo/earl-grey) - An elegant dark theme for Gitea with blue as the primary color (buttons, etc)
+- [Earl Grey](https://github.com/Troplo/earl-grey) - An elegant dark theme for Gitea with blue as the primary color.
 - [GitHub](https://github.com/Rainnny7/gitea-github-theme) - A theme to make Gitea look and feel like GitHub.
 - [Matrix](https://github.com/TylerByte666/gitea-matrix-template) - Neon-green with a matrix-inspired background
 - [Pitch Black](https://github.com/iamdoubz/Gitea-Pitch-Black) - Pitch black 1.14+ theme used on [https://git.dou.bet/iamdoubz/Gitea-Pitch-Black](https://git.dou.bet/iamdoubz/Gitea-Pitch-Black)
