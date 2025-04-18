@@ -105,6 +105,7 @@ A curated list of awesome projects related to Gitea and its soft-fork instances.
 - [Meli Docs](https://docs.meli.charlie-bravo.be/authentication/gitea) - Meli is an open source platform built for deploying static sites and frontend applications.
 - [Pages Server](https://codeberg.org/Codeberg/pages-server) - Static Pages Server, Gitea equivalent of GitHub Pages: Can serve static webpages on custom domains, including caching, and much more
 - [pages-server](https://git.mills.io/prologic/pages-server) - A simple server for serving up static pages for Gitea A Gitea Pages server ala Github pages.
+- [Pages Server](https://github.com/d7z-project/gitea-pages) - Another opinionated gitea pages project. GitHub-compatible with custom template rendering support.
 
 ## Migration
 
