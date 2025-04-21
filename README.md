@@ -78,6 +78,7 @@ A curated list of awesome projects related to Gitea and its soft-fork instances.
 - [Metroline](https://github.com/metroline/metroline) - Metroline is a Continuous Integration and Delivery platform built with Docker, Node, React and MongoDB, natively compatible with Gitea.
 - [Monitoring mixin](https://github.com/go-gitea/gitea/tree/main/contrib/gitea-monitoring-mixin) - Gitea monitoring mixin (Grafana dashboard)
 - [mvoCI](https://codeberg.org/snaums/mvoCI) - very simple Continuous Integration Server written in go. Built-in Gitea support.
+- [QEMU-KVM-Solution](github.com/CrimsonGiteaActions/QEMU-KVM-Solution) - A simple solution that enables running Gitea Actions job in ephemeral virtual machine.
 - [Renovate](https://github.com/renovatebot/renovate) - Gitea compatible configurable universal dependability update tool
 - [soba](https://github.com/jonhadfield/soba) - scheduled backups of user/organization Gitea repositories with change detection.
 - [Tea Runner](https://github.com/DavesCodeMusings/tea-runner) - A minimalist Python Flask app that uses Gitea webhooks to perform actions.
