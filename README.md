@@ -222,6 +222,7 @@ A curated list of awesome projects related to Gitea and its soft-fork instances.
 - [GitHub](https://github.com/Rainnny7/gitea-github-theme) - A theme to make Gitea look and feel like GitHub.
 - [GitHub Dark](https://github.com/lutinglt/gitea-github-theme) - A dark theme to make Gitea look and feel like GitHub.
 - [Matrix](https://github.com/TylerByte666/gitea-matrix-template) - Neon-green with a matrix-inspired background
+- [One Dark](https://git.tjdev.de/tjdev/gitea-theme-one-dark) - One Dark theme used on [git.tjdev.de](https://git.tjdev.de)
 - [Pitch Black](https://github.com/iamdoubz/Gitea-Pitch-Black) - Pitch black 1.14+ theme used on [https://git.dou.bet/iamdoubz/Gitea-Pitch-Black](https://git.dou.bet/iamdoubz/Gitea-Pitch-Black)
 - [Tangerine Dream](https://github.com/jager012/tangerine-dream) - Tangerine dark theme for Gitea
 
