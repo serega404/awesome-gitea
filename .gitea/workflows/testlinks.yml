@@ -1,0 +1,15 @@
+on:
+  pull_request:
+    branches:
+      - '**'
+
+jobs:
+  check_urls:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+      - name: Link check action
+        uses: adriancoman/link-checks-action@0.1.0
+        with:
+          file-to-check: "README.md"
