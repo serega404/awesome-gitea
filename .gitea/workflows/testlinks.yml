@@ -4,17 +4,12 @@ on:
   - pull_request
 
 jobs:
-  build:
-
+  check_urls:
     runs-on: ubuntu-latest
-
     steps:
-    - uses: actions/checkout@v3
-    - name: Set up Ruby 2.6
-      uses: ruby/setup-ruby@v1
-      with:
-        ruby-version: '2.6'
-    - name: Checks
-      run: |
-        gem install awesome_bot
-        awesome_bot README.md --allow-ssl -a 302,429 -w xbmc/xbmc
+      - name: Checkout repository
+        uses: actions/checkout@v2
+      - name: Link check action
+        uses: adriancoman/link-checks-action@0.1.0
+        with:
+          file-to-check: "README.md"
