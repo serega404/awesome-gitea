@@ -1,7 +1,7 @@
+name: testlinks
 on:
-  pull_request:
-    branches:
-      - '**'
+  - push
+  - pull_request
 
 jobs:
   check_urls:
