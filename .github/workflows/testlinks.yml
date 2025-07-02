@@ -13,3 +13,5 @@ jobs:
         uses: serega404/links-check-action@test6
         with:
           filePath: "README.md"
+          ignoreCodes: "403"
+          
