@@ -224,8 +224,8 @@ A curated list of awesome projects related to Gitea and its soft-fork instances.
 - [One Dark](https://git.tjdev.de/tjdev/gitea-theme-one-dark) - One Dark theme used on [git.tjdev.de](https://git.tjdev.de)
 - [Pitch Black](https://github.com/iamdoubz/Gitea-Pitch-Black) - Pitch black 1.14+ theme used on [https://git.dou.bet/iamdoubz/Gitea-Pitch-Black](https://git.dou.bet/iamdoubz/Gitea-Pitch-Black)
 - [Tangerine Dream](https://github.com/jager012/tangerine-dream) - Tangerine dark theme for Gitea
+- [test](https://kekkekekke.com)
 
-[test](https://kekkekekke.com)
 ## Workflow Tools
 
 - [alfred-gitea](https://github.com/pat-s/alfred-gitea) - Alfred workflow for Gitea
