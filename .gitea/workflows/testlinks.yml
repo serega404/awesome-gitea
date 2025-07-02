@@ -10,6 +10,6 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
       - name: Link check action
-        uses: serega404/link-checks-action@0.1.0
+        uses: serega404/link-checks-action@test
         with:
           file-to-check: "README.md"
