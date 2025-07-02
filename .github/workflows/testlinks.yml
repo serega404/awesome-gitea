@@ -10,6 +10,6 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
       - name: Link check action
-        uses: serega404/links-check-action@test5
+        uses: serega404/links-check-action@test6
         with:
           filePath: "README.md"
