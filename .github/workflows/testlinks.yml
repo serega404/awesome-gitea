@@ -12,4 +12,4 @@ jobs:
       - name: Link check action
         uses: serega404/links-check-action@test3
         with:
-          file-to-check: "README.md"
+          filePath: "README.md"
